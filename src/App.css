@@ -1,0 +1,34 @@
+.bbg {
+  background-color: #0d4f9a;
+}
+.Backgr {
+  background-image: url(https://cdn.shopify.com/s/files/1/0009/2900/5634/files/bg_a71a657f-2566-4a98-a55e-e76b5555861c.png?21731);
+}
+.blueh4 {
+  color: #0d4f9a;
+  font-weight: bold;
+}
+.Bluebutton {
+  color: white;
+  background-color: #0d4f9a;
+  font-weight: bold;
+}
+.Whitebutton {
+  color: #0d4f9a;
+  background-color: white;
+  border-width: 2px;
+  border-color: #0d4f9a;
+  font-weight: light;
+}
+.blueh3 {
+  color: #0d4f9a;
+  font-weight: bold;
+}
+.Breadcrumbs {
+  color: #3c7aae;
+  font-weight: 500;
+}
+.bluecolor {
+  color: #0d4f9a;
+  font-weight: bold;
+}
