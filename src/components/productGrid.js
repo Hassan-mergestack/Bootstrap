@@ -1,5 +1,5 @@
 import React from 'react'
- function Body1() {
+ function productGrid() {
   return (
     <div className='col-12 container row'>
         <div className='col-2 bg-light'>
@@ -8,7 +8,7 @@ import React from 'react'
 
         <div className='col-5'>
              <row className='d-flex justify-content-center'>
-                <h3 className='blueh4 '>AGELESS MULTI-COLLAGEN® PROTEIN POWDER</h3>
+                <h3 className='ProductTitle '>AGELESS MULTI-COLLAGEN® PROTEIN POWDER</h3>
              </row>
              <row className='d-flex justify-content-center'>
                 <span >Select your money saving option below:</span>
@@ -17,7 +17,7 @@ import React from 'react'
 
         <div className='col-5'>
              <row className='d-flex justify-content-center'>
-                <h4 className='blueh4 '>Choose Your Package</h4>
+                <h4 className='ProductTitle '>Choose Your Package</h4>
              </row>
              <row className='d-flex justify-content-center mb-3'>
                 <span >Select your money saving option below:</span>
@@ -31,4 +31,4 @@ import React from 'react'
   )
 }
 
-export default Body1
+export default productGrid

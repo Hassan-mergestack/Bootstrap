@@ -1,12 +1,12 @@
-import Nav from './components/Navbar';
-import Body1 from './components/Body1';
+import Navbar from './components/navbar';
+import ProductGrid from './components/productGrid';
 import './App.css';
 
 function App() {
   return (
     <div >
-      <Nav/>
-      <Body1/>
+      <Navbar/>
+      <ProductGrid/>
     </div>
   );
 }
