@@ -1,6 +1,9 @@
 .NavbarBlueTop {
   background-color: #0d4f9a;
+  font-family: Arial, Helvetica, sans-serif;
+  word-spacing: 1.5px;
 }
+
 .BackgroundImage {
   background-image: url(https://cdn.shopify.com/s/files/1/0009/2900/5634/files/bg_a71a657f-2566-4a98-a55e-e76b5555861c.png?21731);
 }
@@ -27,4 +30,8 @@
 .BlueNavbarBtn {
   color: #0d4f9a;
   font-weight: bold;
+}
+.NavbarDropdownBtn {
+  color: white;
+  background-color: #192841;
 }

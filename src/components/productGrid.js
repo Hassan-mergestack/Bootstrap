@@ -1,4 +1,5 @@
 import React from 'react'
+
  function productGrid() {
   return (
     <div className='col-12 container row'>
@@ -23,7 +24,7 @@ import React from 'react'
                 <span >Select your money saving option below:</span>
              </row>
              <div className='d-flex d-inline-block container'>
-                <button className='btn btn-primary btn-block Bluebutton'>One-Time Purchase</button>
+                <button className='btn btn-primary btn-block Bluebutton '>One-Time Purchase</button>
                 <button className='btn btn-primary btn-block Whitebutton ml-2'>Subscribe & save 30%</button>
              </div>
             </div>
