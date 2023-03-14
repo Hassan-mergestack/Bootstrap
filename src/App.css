@@ -1,5 +1,18 @@
 .NavbarBlueTop {
   background-color: #0d4f9a;
+  /* font-family: Arial, Helvetica, sans-serif;
+  word-spacing: 1.5px; */
+}
+.NavbarFont {
+  font-size: 19.5px;
+  letter-spacing: 1.5px;
+  line-height: 30px;
+  font-weight: 200;
+  text-shadow: unset;
+  /* font-size: 1.1rem; */
+}
+.FontFamily {
+  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", sans-serif;
 }
 .BackgroundImage {
   background-image: url(https://cdn.shopify.com/s/files/1/0009/2900/5634/files/bg_a71a657f-2566-4a98-a55e-e76b5555861c.png?21731);
@@ -11,14 +24,25 @@
 .Bluebutton {
   color: white;
   background-color: #0d4f9a;
-  font-weight: bold;
+  line-height: 55px;
+  font-weight: 700;
+  font-size: 20px;
 }
 .Whitebutton {
   color: #0d4f9a;
+  font-size: 20px;
   background-color: white;
   border-width: 2px;
+  line-height: 55px;
   border-color: #0d4f9a;
   font-weight: light;
+}
+.ShopBtn {
+  height: 50px;
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 7px;
+  padding: 14px;
 }
 .Breadcrumbs {
   color: #3c7aae;
@@ -27,4 +51,62 @@
 .BlueNavbarBtn {
   color: #0d4f9a;
   font-weight: bold;
+  margin-right: 2px;
+}
+.BlueNavbarBtn:hover {
+  background-color: inherit;
+}
+.NavbarDropdownBtn {
+  color: white;
+  background-color: #192841;
+}
+.NavbarDropdownBtn:hover {
+  background-color: #192841;
+}
+.NavbarOptionBtn {
+  background-color: #0d4f9a;
+  letter-spacing: 1.5px;
+  line-height: 25.5px;
+}
+.ThinBlueLine {
+  background-color: #0d4f9a;
+  line-height: 5px;
+}
+.LeftCardBorder {
+  border-color: #0d4f9a;
+  border-width: 2px;
+  border-right: 0;
+  border-radius: 0;
+}
+.RightCardBorder {
+  border-color: #0d4f9a;
+  border-width: 2px;
+  border-left: 0;
+  border-radius: 0;
+}
+.ThickBlueBorder {
+  border-color: #0d4f9a;
+  border-width: 7px;
+  width: 50px;
+}
+.CardsHeight {
+  line-height: 1px;
+}
+.StickyReviewBtn {
+  position: fixed;
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
+  height: auto;
+  background-color: #0d4f9a !important;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.SearchBar {
+  border-radius: 6px;
+}
+.StarColor {
+  color: #2bb34d;
+}
+.IconHeight {
+  height: 2em;
 }
